@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SwitcherTableViewController.h
 //  TheSwitcher_BrunoTavares
 //
 //  Created by Bruno Tavares on 13/03/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SwitcherTableViewController : UITableViewController
 
 @end
-
